@@ -1,3 +1,3 @@
 # gmkl
 
-math kernel library for Geometry and Graphics
+math kernel library for geometry and graphics
